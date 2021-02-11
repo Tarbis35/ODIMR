@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OdiGitTagInfo>
+   <ParamMap>
+      <param value="/Work Repository/Projects/TESTGIT/TestFolder/Packages/Scenarios/SCEN_NEWPACKAGE_Version_001.xml"/>
+      <param value="/Work Repository/Projects/TESTGIT/TestFolder/Packages/PACK_NewPackage.xml"/>
+      <param value="/Work Repository/Projects/TESTGIT/PROJ_TESTGIT.xml"/>
+      <param value="/Work Repository/Projects/TESTGIT/TestFolder/FOLD_TestFolder.xml"/>
+      <param value="/Master Repository/Contexts/CONT_Global.xml"/>
+   </ParamMap>
+</OdiGitTagInfo>
