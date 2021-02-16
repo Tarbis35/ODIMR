@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
-<Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="63rfcHweYRLJgR9own5xyA==" exportKeySalt="7f5689b7-b46f-4758-8b6e-85c86961ab12" containsCipherText="false"/>
+<Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="W9GGdLAQmDyMtu9CPds1Hw==" exportKeySalt="36442077-8636-4df0-b8d4-590ecc8ffa5e" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpProject">
 		<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
-	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-09 19:27:29.0]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2021-02-16 11:03:54.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[fe344b52-355f-4637-940f-e352feba6eee]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-11 12:10:22.0]]></Field>
+	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2021-02-16 12:06:32.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ProjectCode" type="java.lang.String"><![CDATA[TESTGIT]]></Field>
 	<Field name="ProjectName" type="java.lang.String"><![CDATA[TESTGIT]]></Field>
@@ -31,7 +31,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[TestFolder]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[4ed5b2a3-4b90-4e32-90bf-c4d3d7785177]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[c59caeb3ea86c547e841058a12248e4d824911b8]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[4c5316c4f2f419786a7361006e8edeec0efef6ea]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[TestFolder/FOLD_TestFolder.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
@@ -79,6 +79,6 @@
 	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
 	<Field name="OdiVersion" type="java.lang.String"><![CDATA[12.2.1]]></Field>
 	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
-	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[05.02.02.07]]></Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[05.02.02.09]]></Field>
 </Object>
 </SunopsisExport>
